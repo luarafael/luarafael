@@ -31,6 +31,12 @@ Olá! Sou **Luã Rafael**, um desenvolvedor fullstack em formação, apaixonado 
 - 🚀 **Sempre Aprendendo**: Explorando novas tecnologias como IA, Web3.
 - 💼 **Buscando Oportunidades**: Aberto a colaborações, freelas e posições em empresas inovadoras.
 
+## 🕹️ GitHub Gamificação
+
+- **Pontuação:** `0`
+- **Nível:** `1`
+- **Insígnias:** Nenhuma ainda, continue jogando!
+
 ## 📈 Estatísticas GitHub
 
 ![pacman contribution graph](https://raw.githubusercontent.com/luarafael/luarafael/output/pacman-contribution-graph.svg)
