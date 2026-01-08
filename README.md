@@ -1,36 +1,28 @@
 # 🚀 Luã Rafael | Fullstack Developer & Gamer
 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4,5&height=150&section=header&text=Olá!%20Sou%20Luã%20Rafael&fontSize=40&fontColor=FFFFFF&animation=twinkling)
+
 ![Profile Banner](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen) ![Gaming](https://img.shields.io/badge/Gaming-Enthusiast-blueviolet) ![Location](https://img.shields.io/badge/Location-Brazil-red)
 
 Olá! Sou **Luã Rafael**, um desenvolvedor fullstack em formação, apaixonado por tecnologia e jogos. Gosto de explorar lógica e criatividade no código, criando soluções inovadoras. Sempre em busca de desafios que unam diversão e aprendizado! 🎮💻
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4,5&height=150&section=header&text=Olá!%20Sou%20Luã%20Rafael&fontSize=40&fontColor=FFFFFF&animation=twinkling)
 
 ## Minhas Stacks
 
 ### Frontend
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo" />
 
 ### Backend
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="express logo" />
 
 ### Databases
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo" />
 
 ### Tools & Others
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-![Steam](https://img.shields.io/badge/Steam-000000?style=plastic&logo=steam&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo" />
 
 ## 🎯 Sobre Mim
 
