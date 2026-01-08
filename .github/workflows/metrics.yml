@@ -17,5 +17,4 @@ jobs:
           filename: pacman-contribution-graph.svg
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          plugin_isocalendar_theme: pacman
           config_timezone: America/Sao_Paulo

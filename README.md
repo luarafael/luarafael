@@ -33,7 +33,7 @@ Olá! Sou **Luã Rafael**, um desenvolvedor fullstack em formação, apaixonado 
 
 ## 📈 Estatísticas GitHub
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luarafael&theme=radical)
+![pacman contribution graph](https://raw.githubusercontent.com/luarafael/luarafael/output/pacman-contribution-graph.svg)
 
 ## 🌐 Conecte-se Comigo
 
