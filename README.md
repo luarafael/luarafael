@@ -33,18 +33,17 @@ Olá! Sou **Luã Rafael**, um desenvolvedor fullstack em formação, apaixonado 
 
 - 🌟 **Fullstack Enthusiast**: Desenvolvo aplicações web completas, do frontend ao backend, com foco em performance e UX.
 - 🎮 **Gamer de Coração**: Apaixonado por jogos como RPGs, estratégias e eSports. Acredito que games ensinam lógica, teamwork e resiliência – habilidades que aplico no código!
-- 🚀 **Sempre Aprendendo**: Explorando novas tecnologias como IA, Web3 e desenvolvimento de jogos.
+- 🚀 **Sempre Aprendendo**: Explorando novas tecnologias como IA, Web3.
 - 💼 **Buscando Oportunidades**: Aberto a colaborações, freelas e posições em empresas inovadoras.
 
 ## 📈 Estatísticas GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luarafael&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luarafael&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luarafael&theme=radical)
 
 ## 🌐 Conecte-se Comigo
 
 - 📧 **Email**: luarvb12@gmail.com
-- 💼 **LinkedIn**: [Seu LinkedIn](https://www.linkedin.com/in/luã-rafael-1434213a3/)
+- 💼 **LinkedIn**: [https://www.linkedin.com/in/luã-rafael-1434213a3/](https://www.linkedin.com/in/luã-rafael-1434213a3/)
 - 🎮 **Discord**: luarafael#3976
 
 _"Código é como um jogo: cada bug é um desafio, cada solução é uma vitória!"_ 🏆
