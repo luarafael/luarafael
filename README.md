@@ -31,28 +31,18 @@ Olá! Sou **Luã Rafael**, um desenvolvedor fullstack em formação, apaixonado 
 - 🚀 **Sempre Aprendendo**: Explorando novas tecnologias como IA, Web3.
 - 💼 **Buscando Oportunidades**: Aberto a colaborações, freelas e posições em empresas inovadoras.
 
-## 🕹️ GitHub Gamificação
-
-- **Pontuação:** `0`
-- **Nível:** `1`
-- **Insígnias:** Nenhuma ainda, continue jogando!
-
-## 📈 Estatísticas GitHub
+## 📊 Gráficos Dinâmicos do GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luarafael&theme=onestar&no-frame=true&no-bg=true&margin-w=10&title=Commits,Stars,Followers,Repositories" alt="Troféus GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luarafael&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luarafael&theme=radical&date_format=M%20j%5B%2C%20Y%5D&fire=FF6C00&currStreakLabel=FFD700" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luarafael&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luarafael&theme=react-dark&area=true&hide_border=true&custom_title=Game%20Progress%20Graph" alt="Game Progress Graph" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=footer&text=Continue%20jogando%20e%20conquistando!&fontSize=24&fontColor=FFD700&animation=twinkling" alt="Continue jogando" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luarafael&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ## 🌐 Conecte-se Comigo
