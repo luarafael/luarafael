@@ -38,7 +38,7 @@ Olá! Sou **Luã Rafael**, um desenvolvedor fullstack em formação, apaixonado 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luarafael&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luarafael&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
